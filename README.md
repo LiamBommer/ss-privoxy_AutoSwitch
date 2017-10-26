@@ -10,4 +10,5 @@ An shell script runs on Ubuntu 16.04, automatically turning on/off  **shadowsock
 turns on ss&privoxy, and turn system proxy settings to 'manual'
 
 * @param 'stop'
+
 turns off ss&privoxy, and turn system proxy settings to 'auto'
