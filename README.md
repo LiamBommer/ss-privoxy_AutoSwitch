@@ -1,0 +1,1 @@
+# ss-privoxy_AutoSwitch
