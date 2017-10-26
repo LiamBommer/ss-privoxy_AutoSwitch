@@ -17,4 +17,4 @@ turns off ss&privoxy, and turn system proxy settings to 'auto'
 
 ### NOTICE
 
-befor you run, enter the script and edit the **path of your shadowsocks config file**
+befor you run, **finish the config in the script**
