@@ -54,7 +54,7 @@ if [ "$1" == "start" ] || [ "$1" == "" ]; then
 
     # shadowsocks & privoxy loading
     echo "liaomelo15@" | sudo -S /etc/init.d/privoxy start
-    sslocal -c "$ssConfig"
+    (sslocal -c "$ssConfig" &)
 fi
 
 # stop
