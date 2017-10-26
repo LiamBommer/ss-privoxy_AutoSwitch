@@ -17,7 +17,7 @@
     ssConfig='/etc/shadowsocks.json'
 #
 # your sudo password here
-    pw='liaomelo15@'
+    pw=''
 #
 # ---------------------------
 #
